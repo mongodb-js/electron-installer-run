@@ -14,7 +14,7 @@
     "url": "git://github.com/mongodb-js/electron-installer-run.git"
   },
   "dependencies": {
-    "debug": "^2.2.0",
+    "debug": "^2.5.0",
     "which": "^1.2.0"
   },
   "devDependencies": {
