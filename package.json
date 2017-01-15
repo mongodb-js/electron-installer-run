@@ -1,7 +1,7 @@
 {
   "name": "electron-installer-run",
   "description": "Run child processes safely handling all sorts of edge cases.",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "scripts": {
     "fmt": "mongodb-js-fmt",
     "check": "mongodb-js-precommit",
